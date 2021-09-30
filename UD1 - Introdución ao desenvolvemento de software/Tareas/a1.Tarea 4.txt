@@ -1,0 +1,10 @@
+ Tarefa 4. Buscar en internet nomes de metodoloxías áxiles de desenvolvemento de software.
+Scrum
+Kanban
+Scrumban
+eXtreme Programing
+Desarrollo ligero (Lean)
+Dynamic Systems Development Method (DSDM)
+Proceso Unificado Ágil (Agile Unified Process)
+Desarrollo Adaptativo de Software (Adaptive software development)
+

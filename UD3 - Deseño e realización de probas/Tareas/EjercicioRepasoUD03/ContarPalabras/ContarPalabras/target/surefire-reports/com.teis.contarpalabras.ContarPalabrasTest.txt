@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.teis.contarpalabras.ContarPalabrasTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.067 sec <<< FAILURE!
+com.teis.contarpalabras.ContarPalabrasTest.testGetNumPalabrasC7()  Time elapsed: 0.031 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <2> but was: <5>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:510)
+	at com.teis.contarpalabras.ContarPalabrasTest.testGetNumPalabrasC7(ContarPalabrasTest.java:131)
+

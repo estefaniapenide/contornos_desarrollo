@@ -1,0 +1,6 @@
+Tarefa 2. Buscar en internet aplicacións software dispoñibles para o usuario en versión alfa, beta, RC ou  RTM. 
+
+Versión alfa: Telegram Video Calls (08/2020)
+Versión beta: Android 11 beta (06/2020)
+Versión RC: Windows 7 RC (08/2010)
+Versión RTM: Microsoft Office 365 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [proyecto_division]">
+  <test junit="true" name="proyecto_division.DivisionTest(failed)">
+    <classes>
+      <class name="proyecto_division.DivisionTest">
+        <methods>
+          <include name="testCalcularDivisionC4"/>
+          <include name="testCalcularDivisionC3"/>
+        </methods>
+      </class> <!-- proyecto_division.DivisionTest -->
+    </classes>
+  </test> <!-- proyecto_division.DivisionTest(failed) -->
+  <test junit="true" name="proyecto_division.MainTest(failed)">
+    <classes>
+      <class name="proyecto_division.MainTest">
+        <methods>
+          <include name="testMain"/>
+        </methods>
+      </class> <!-- proyecto_division.MainTest -->
+    </classes>
+  </test> <!-- proyecto_division.MainTest(failed) -->
+</suite> <!-- Failed suite [proyecto_division] -->

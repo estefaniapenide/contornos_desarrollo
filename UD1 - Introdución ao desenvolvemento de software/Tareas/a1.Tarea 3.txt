@@ -1,0 +1,16 @@
+Tarefa 3. Buscar en internet as últimas versións de Debian, NetBeans, Java, Windows
+
+Debian 10.6 - Pubicación estable actual (26/09/2020)
+Debian bullseye - Sin fecha de publicación, actualmente en pruebas
+
+Apache NetBeans 12.1 - Released 01/09/220
+
+Java 15 o JDK 15 - Released 15/09/2020
+ JDK 16 - In progress with early-access builds
+
+Windows 10 2004 19041.172
+
+
+
+
+

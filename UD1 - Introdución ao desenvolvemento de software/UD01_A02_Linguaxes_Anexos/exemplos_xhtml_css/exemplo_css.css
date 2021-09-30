@@ -1,0 +1,16 @@
+
+body{
+    font-family: "MS Sans Serif", Geneva, sans-serif;
+    font-size: 15px;
+    color: Black;
+    border:black 2px double;
+    padding: 40px;
+    margin: 20px;}
+h1 {
+    font: 40px "Times New Roman", Times, serif;
+    font-weight: bolder;
+    word-spacing: 25px;}
+p.principal{
+    text-align: center;
+    font: 10px "MS Serif", "New York", serif;}
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Exemplo básico de XML
+-->
+<alumnos>
+    <alumno>
+        <nome>Pepe</nome>
+        <apelidos>Ruíz Arias</apelidos>
+    </alumno>
+    <alumno>
+        <nome>María Dolores</nome>
+        <apelidos>González Paz</apelidos>
+    </alumno>   
+</alumnos>

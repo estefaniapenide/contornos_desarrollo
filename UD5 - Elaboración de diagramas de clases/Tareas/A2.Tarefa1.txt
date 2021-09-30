@@ -1,0 +1,18 @@
+Una biblioteca almacena y presta copias de libros.
+
+Un libro está definido por su nombre, su tipo, su editorial y su año de publicación. Puede estar escrito por más
+de un autor y un autor puede escribir varios libros. De cada autor se conoce su nombre, nacionalidad y fecha de 
+nacimiento.
+
+De cada copia, una biblioteca tiene varios ejemplares. Cada uno de estos ejemplares tiene un identificador único
+y un estado (prestado o devueto).Estos ejemplares pueden ser prestados y devuletos.
+
+Un lector puede coger prestado como máximo tres ejemplares de cada vez. 
+Los prestamos se caracterizan por su fecha de inicio y fecha de fin. A partir de la fecha de inicio de un 
+préstamo se calcula la fecha de fin y se genera una multa en caso de que un lector devuelva tarde un ejemplar. 
+Una multa está definida por su fecha de inicio y su fecha fin, la cual se calcula a partir de la fecha 
+en la que fue emitida. 
+
+Cada lector se identifica por su número de socio, su nombre, sus apellidos y su dirección y de 
+cada uno de ellos se debe poder comprobar si tienen multas pendientes.
+

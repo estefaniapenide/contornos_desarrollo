@@ -1,0 +1,25 @@
+Para un gimnasio hay tres tipos de personas que pueden gestionar acciones distintas: administrativos,
+socios y personas externas.
+
+Administrativos:
+Gestionan las actividades deportivas y los monitores.
+
+Para cada actividad deportiva pueden darla de alta, modificarla o darla de baja. A una actividad deportiva
+dada de alta pueden asignarle un monitor.
+
+En cuanto a la gestión de monitores, pueden darlos de alta, darlos de baja y modificar sus datos.
+
+Socios:
+Pueden inscribirse en actividades y/o alquilar alguna instalación.
+
+Para cualquiera de las dos acciones tienen que pagar y además tienen la posibilidad de imprimir el resguardo
+en papel. Para alquilar una instalación, además de pagar, tienen que comprobar su disponibilidad y actualizarla.
+
+Personas externas:
+Pueden hacerse socio y/o consultar la información del gimnasio.
+
+Para hacerse socio tienen que cubrir un formulario.
+
+La información del gimnasio que pueden consultar será, por un lado, la relacionada con las instalaciones y por
+otro, la relacionada con las actividades. 
+

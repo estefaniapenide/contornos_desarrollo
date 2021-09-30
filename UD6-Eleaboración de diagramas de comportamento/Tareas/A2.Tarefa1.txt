@@ -1,0 +1,6 @@
+Para eliminar a una persona de la lista de contactos de una agenda:
+
+A través de la interfaz del programa, el usuario manda el mensaje del nombre de la persona que se quiere eliminar por medio del método EliminarPersona().
+La clase Agenda implementa la Interfaz y a través del métdodo sobreescrito EliminarPersona(), en la clase ListarPersonas, se comparara el nombre con cada
+uno de las isntancias creadas del objeto Persona. Una vez lo encuentra, elimina la instacia de Persona que coincide con el nombre.
+
